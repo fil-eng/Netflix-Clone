@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* @import url("https://fonts.googleapis.com/css2?family=Arima:wght@100..700&family=Ballet:opsz@16..72&family=Lavishly+Yours&family=Monsieur+La+Doulaise&display=swap"); */
+
+body {
+  font-family: "Ruthie", cursive;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 13px;
+  background-color: black;
+}

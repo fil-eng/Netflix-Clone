@@ -1,11 +1,14 @@
-import React from 'react'
+import React from "react";
+import Hedder from "../../components/hedder/Hedder";
+import Footer from "../../components/footer/Footer";
 
 function home() {
   return (
-    <div>
-      home
-    </div>
-  )
+    <>
+      <Hedder />
+      <Footer />
+    </>
+  );
 }
 
-export default home
+export default home;
