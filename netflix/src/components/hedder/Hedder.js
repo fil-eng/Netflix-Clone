@@ -1,6 +1,6 @@
 import React from "react";
 import "./hedder.css";
-import logo from "../../.../../assets/image/netflix.png";
+// import logo from "../../.../../assets/image/net.svg";
 import SearchIcon from "@mui/icons-material/Search";
 import CircleNotificationsIcon from "@mui/icons-material/CircleNotifications";
 
@@ -15,7 +15,11 @@ const Hedder = () => {
           <div className="header_left">
             <ul>
               <li>
-                <img src={logo} alt="netflix" width="50" />
+                <img
+                  src="https://image.tmdb.org/t/p/original/wwemzKWzjKYJFfCeiB57q3r4Bcm.svg"
+                  alt="netflix"
+                  width="50"
+                />
               </li>
               <li>Netflix</li>
               <li>Home</li>
@@ -49,3 +53,4 @@ const Hedder = () => {
 };
 
 export default Hedder;
+
