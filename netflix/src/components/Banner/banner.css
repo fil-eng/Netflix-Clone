@@ -9,7 +9,6 @@
   margin-left: 10px;
   padding-top: 100px;
   /* height: 190px; */
-
 }
 .banner_title {
   font-size: 3rem;
@@ -50,11 +49,9 @@
   border-color: #c6c6c6;
   transition: all0.2s;
   background-color: #fff;
-
 }
-.play:hover{
+.play:hover {
   color: #6740d5;
-
 }
 .banner_fadeBotton {
   height: 40vh;
@@ -64,5 +61,5 @@
     rgb(37, 37, 37, 0.91),
     #111
   );
-  /* margin-top: 70px; */
+  margin-top: 100px;
 }

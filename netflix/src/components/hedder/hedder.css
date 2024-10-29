@@ -1,11 +1,11 @@
 *{
-    /* max-width: 100%; */
+    /* max-width: 100px; */
 }
 /* .header_left ul li img{
   background-color: rgb(231, 24, 24);
-
 } */
 .header_outer_container {
+
   position: sticky;
   top: 0;
   display: flex;
